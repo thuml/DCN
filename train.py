@@ -10,7 +10,7 @@ import sys
 import argparse
 
 LEARNING_RATE = 0.0001
-DATA_PATH = '/home/ICT2000/lshichen/Desktop/playground/datasets/zsl/'
+DATA_PATH = '/path/to/dataset/'
 BATCH_SIZE = 64
 CROSS_ENTROPY_LAMBDA = 1.0
 ENTROPY_LAMBDA = 1.0
